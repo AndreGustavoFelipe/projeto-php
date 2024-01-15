@@ -51,6 +51,6 @@ Agora abra ele com o link que apareceu no terminal, ou por esse: http://localhos
 
 **Editor de texto:** Visual Studio Code
 
-**Banco de dados:** MySQL WorkBench
+**Banco de dados:** SQL
 
 **Servidor:** XAMPP
